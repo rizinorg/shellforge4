@@ -42,6 +42,7 @@ arch = [ ("linux_i386", "Linux/i386"),
          ("solaris_sparc", "Solaris/Sparc"),
          ("hpux_hppa", "HPUX/PA-RISC"),
          ("linux_ia64", "Linux/IA64"),
+         ("darwin_i386", "Darwin/i386")
          ]
 
 verbose=0
